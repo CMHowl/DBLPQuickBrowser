@@ -20,11 +20,17 @@ http://blog.sina.com.cn/u/2103119762
 
 ![预览图1](https://github.com/CMHowl/DBLPQuickBrowser/raw/master/DBLPQuickBrowser/Preview_Images/main3.jpg)
 
-使用流程
-①启动ScArticle.exe
-②保持程序在后台运行同时，将dblp.xml文件拖动到src目录下
-③耐心等待缓存文件生成完毕
-④双击DBLPQuickBrowser_Release_boxed.exe
-⑤单击“齿轮”按钮，选择src目录下的path.txt文件
-⑥所有准备工作完成，探索功能吧~！
+使用流程:
+
+1.启动ScArticle.exe
+
+2.保持程序在后台运行同时，将dblp.xml文件拖动到src目录下
+
+3.耐心等待缓存文件生成完毕
+
+4.双击DBLPQuickBrowser_Release_boxed.exe
+
+5.单击“齿轮”按钮，选择src目录下的path.txt文件
+
+6.所有准备工作完成，探索功能吧~！
 
