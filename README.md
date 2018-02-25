@@ -13,7 +13,12 @@ Tips:
 实现原理教程（拖更中...）
 http://blog.sina.com.cn/u/2103119762
 
+
 ![预览图1](https://github.com/CMHowl/DBLPQuickBrowser/raw/master/DBLPQuickBrowser/Preview_Images/main1.png)
+
+![预览图1](https://github.com/CMHowl/DBLPQuickBrowser/raw/master/DBLPQuickBrowser/Preview_Images/main2.jpg)
+
+![预览图1](https://github.com/CMHowl/DBLPQuickBrowser/raw/master/DBLPQuickBrowser/Preview_Images/main3.jpg)
 
 使用流程
 ①启动ScArticle.exe
