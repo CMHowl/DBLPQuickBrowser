@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/4/24 13:37:49。
+     1>项目“G:\ScArticle\ScArticle\ScArticle.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt WriteIntoFile.cpp
+         WriteIntoFile.cpp
+       Link:
+         F:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ScArticle\Release\ScArticle.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\ScArticle\Release\ScArticle.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ScArticle\Release\ScArticle.lib" /MACHINE:X86 /SAFESEH Release\tinystr.obj
+         Release\tinyxml.obj
+         Release\tinyxmlerror.obj
+         Release\tinyxmlparser.obj
+         Release\ClusterAnalysis.obj
+         Release\Jointworker.obj
+         Release\WriteIntoFile.obj
+         Release\MyArticle.obj
+         正在生成代码
+         3 of 420 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         ScArticle.vcxproj -> G:\ScArticle\Release\ScArticle.exe
+     1>已完成生成项目“G:\ScArticle\ScArticle\ScArticle.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.32

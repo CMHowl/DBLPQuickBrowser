@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="info">G:/dblp/Information_890px_1191815_easyicon.net.png</file>
+        <file alias="info2">G:/dblp/Template_32px_1081241_easyicon.net.png</file>
+        <file alias="book">G:/dblp/books_1239px_1202889_z.png</file>
+        <file alias="people">G:/dblp/Metroid_0033_People_256px_532315_easyicon.net.png</file>
+        <file alias="more">G:/dblp/more_72px_537980_easyicon.net.png</file>
+        <file>G:/dblp/gear_128px_1180342_easyicon.net.png</file>
+        <file>G:/dblp/gear_128px_1180534_easyicon.net.png</file>
+        <file>G:/dblp/help_question_mark_128px_11454_easyicon.net.png</file>
+        <file alias="info3">G:/dblp/information_628px_1200647_easyicon.net.png</file>
+        <file>G:/dblp/load_upload_128px_18432_easyicon.net.png</file>
+        <file>G:/dblp/people_online_256px_510507_easyicon.net.png</file>
+        <file>G:/dblp/search_1081px_1191635_easyicon.net.png</file>
+        <file>G:/dblp/system_analysis_256px_1185236_easyicon.net.png</file>
+        <file>G:/dblp/system_shutdown_5_256px_541173_easyicon.net.png</file>
+        <file>G:/dblp/Word_807px_1128330_easyicon.net.png</file>
+        <file>G:/dblp/information_512px_1128290_easyicon.net.png</file>
+        <file alias="fuzzy">G:/dblp/Search_globe_512px_1176974_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
